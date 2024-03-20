@@ -8,7 +8,7 @@ app.use(cors())
 app.use(bodyParser.json());
 
 
-const PORT = 5000;
+const PORT = 2000;
 const URI = 'mongodb+srv://matzsolutions:2VVG2QxBAMub9Oaz@cluster0.gyal2.mongodb.net'
 
 
